@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/ETGPgUTtcP0hcFmgrl4tuYqJtFj9mKrMFjwhd4jM5xulmoZ24GEN0BEkJKnzfTfa+NlOR+eiU47BNd9UveXg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\Full_GRASP_And_SOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\kitad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
