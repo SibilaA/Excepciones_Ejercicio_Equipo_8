@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\Full_GRASP_And_SOLID.csproj": {}
+    "C:\\Users\\kitad\\Documents\\Ucu\\Program2\\GIT\\Excepciones_Ejercicio_Equipo_8\\Recipes\\Full_GRASP_And_SOLID.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\Full_GRASP_And_SOLID.csproj": {
+    "C:\\Users\\kitad\\Documents\\Ucu\\Program2\\GIT\\Excepciones_Ejercicio_Equipo_8\\Recipes\\Full_GRASP_And_SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\Full_GRASP_And_SOLID.csproj",
+        "projectUniqueName": "C:\\Users\\kitad\\Documents\\Ucu\\Program2\\GIT\\Excepciones_Ejercicio_Equipo_8\\Recipes\\Full_GRASP_And_SOLID.csproj",
         "projectName": "Full_GRASP_And_SOLID",
-        "projectPath": "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\Full_GRASP_And_SOLID.csproj",
+        "projectPath": "C:\\Users\\kitad\\Documents\\Ucu\\Program2\\GIT\\Excepciones_Ejercicio_Equipo_8\\Recipes\\Full_GRASP_And_SOLID.csproj",
         "packagesPath": "C:\\Users\\kitad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kitad\\Documents\\Ucu\\Program2\\Recipes\\obj\\",
+        "outputPath": "C:\\Users\\kitad\\Documents\\Ucu\\Program2\\GIT\\Excepciones_Ejercicio_Equipo_8\\Recipes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kitad\\AppData\\Roaming\\NuGet\\NuGet.Config"
