@@ -12,6 +12,8 @@ namespace Full_GRASP_And_SOLID
         {
             this.Description = description;
             this.UnitCost = unitCost;
+
+            Check.Precondition(!string.IsNullOrEmpty(description));
         }
 
         public string Description { get; set; }

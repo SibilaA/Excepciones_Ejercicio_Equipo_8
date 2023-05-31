@@ -12,8 +12,10 @@ namespace Full_GRASP_And_SOLID
         {
             this.Description = description;
             this.HourlyCost = hourlyCost;
-        }
 
+            Check.Precondition(!string.IsNullOrEmpty(description));   //agrego un check de la description 
+        }
+        
         public string Description { get; set; }
 
         public double HourlyCost { get; set; }
